@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "f225690c-c781-4307-9f01-df7d810b676c",
+      "name": "Aanchal",
+      "email": "a@example.com"
+    },
+    {
+      "id": "1e8ac595-b2a8-428e-849e-c44709788956",
+      "name": "aanchal",
+      "email": "aa@gmail.com"
+    },
+    {
+      "id": "64b8507a-adc5-4011-9062-792733803ebb",
+      "name": "aanchal",
+      "email": "aa"
+    }
+  ]
+}
